@@ -36,7 +36,7 @@ TCGA-PRAD-Database/
         └── 04_data_sv.txt
 ```
 
-## Following Run Directory Structure
+## Post Run Directory Structure
 
 ```text
 TCGA-PRAD-Database/

@@ -6,13 +6,15 @@
   - [Table: Tumor_Sample](#table-tumor_sample)
   - [Table: Mutation_Event](#table-mutation_event)
   - [Table: Gene](#table-gene)
+  - [Table: Mutation_Gene](#table-mutation_gene)
   - [Table: Protein](#table-protein)
   - [Table: Mutation_Protein](#table-mutation_protein)
   - [Table: Consequence](#table-consequence)
+  - [Table: Mutation_Consequence](#table-mutation_consequence)
   - [Table: Structural_Variant](#table-structural_variant)
   - [Table: Structural_Variant_Breakpoints](#table-structural_variant_breakpoints)
   - [Table: Structural_Variant_Sample](#table-structural_variant_sample)
-
+ 
 - [Data Dictionary by File](#data-dictionary-by-file)
   - [FILE: 01_data_clinical_patient.txt](#file-01_data_clinical_patienttxt)
   - [FILE: 02_data_clinical_sample.txt](#file-02_data_clinical_sampletxt)
